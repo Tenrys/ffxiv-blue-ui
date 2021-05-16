@@ -14,10 +14,10 @@ I included the original files for convenience.
 
 # Installation 
 
-1. [Download the ModPack](https://github.com/Tenri1999/ffxiv-blue-ui/releases/download/1.0.2/Blue UI.ttmp2)
+1. [Download the ModPack](https://github.com/Tenri1999/ffxiv-blue-ui/releases/download/1.0.2/Blue.UI.ttmp2)
 2. Run TexTools2
 3. Click `Mods` > `Import ModPack`
-4. Locate `Blue UI.ttmp2`
+4. Locate `Blue.UI.ttmp2`
 5. Click `Open`
 6. Click `Import`
 7. Done!
